@@ -1,0 +1,22 @@
+{
+  "name": "scanbadge-frontend",
+  "description": "Front-end for managing and using ScanBadge API",
+  "version": "0.1.0",
+  "homepage": "https://github.com/scanbadge/scanbadge-frontend",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.5.3",
+    "angular-route": "~1.5.3",
+    "angular-loader": "~1.5.3",
+    "angular-mocks": "~1.5.3",
+    "html5-boilerplate": "~5.3.0"
+  },
+  "resolutions": {
+    "angular": "~1.5.3",
+    "angular-route": "~1.5.3",
+    "angular-loader": "~1.5.3",
+    "angular-mocks": "~1.5.3",
+    "html5-boilerplate": "~5.3.0"
+  }
+}
